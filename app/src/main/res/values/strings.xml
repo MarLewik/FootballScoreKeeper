@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FootballScoreKeeper</string>
+    <string name="teamAname">WISLA CRACOV</string>
+    <string name="teamBname">Legia Warszawa</string>
+</resources>
